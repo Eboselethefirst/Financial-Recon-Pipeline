@@ -1,0 +1,15 @@
+[
+    {
+        "internal_id": "WEB/PAYSTACK/REF",
+        "session_id": "735257753529965053533694756153",
+        "amount": 25000,
+        "user_name": "Cynthia Adeyemi",
+        "status": "FAILURE"
+    },
+    {
+        "user_name": "Chukwuma Ifeanyi",
+        "session_id": "999260411130197198839195553989",
+        "amount": 49000,
+        "status": "SUCCESS"
+    }
+]
